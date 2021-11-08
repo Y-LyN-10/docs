@@ -4,7 +4,7 @@ description: "Instructions for configuring Node agent properties via YAML file"
 tags: "installation node agent YAML configuration rules properties"
 -->
 
-Contrast supports YAML-based configuration for the Node agent. This allows you to store configuration on disk that you can override with environment variables or command-line arguments. Go to the [Node YAML Template](installation-nodeconfig.html#node-template) for fully formatted properties that you can copy and use in your own configuration files.
+Contrast supports YAML-based configuration for the Node agent. This allows you to store configuration on disk that you can override with environment variables or command-line arguments. Go to the [Node YAML Template](YAML-template-node.md) for fully formatted properties that you can copy and use in your own configuration files.
 
 > **Note:** While all Contrast agents share the same property formatting in YAML configuration files, each agent must use its specified file.
 
